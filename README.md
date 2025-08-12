@@ -2,7 +2,7 @@ To install these to your Blender extensions folder you must download and unzip t
 
 Then, you must locate the extensions folder for your Blender version and move the files there. In my case I am using 4.5 as of the day that I'm writing this, which means my extensions folder is found here:
 ..\Users\[YourUser]\AppData\Roaming\Blender Foundation\Blender\4.5\extensions
-                                                               ^^^
+
 
 Double check that your Blender has that same directory in the custom directory field of the User Default repository's advanced settings.
 You can find that setting at Edit > Preferences > Get Extensions > Repositories > User Default > Advanced.
